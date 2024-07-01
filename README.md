@@ -1,6 +1,6 @@
 # AIToolBox
 
-集合你需要的所有 AI 工具。(Gather all the AI tools you need.)
+汇集所有你需要的 AI 工具。(Gather all the AI Tools you need.)
 
 ## 1. AI 绘画工具(AI drawing tool)
 
